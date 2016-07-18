@@ -1,4 +1,3 @@
-# GreedyGames
 
 1.Run the Map-Reduce task with proper files(mapper.py,reducer.py,input(log file),output) with command
 
